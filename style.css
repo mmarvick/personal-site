@@ -41,13 +41,13 @@ footer a {
   text-decoration: none;
 }
 
-footer a:link,
-footer a:visited {
+a:link,
+a:visited {
   color: #000099;
 }
 
 
-footer a:hover,
-footer a:active {
+a:hover,
+a:active {
   color: #3366cc;
 }
